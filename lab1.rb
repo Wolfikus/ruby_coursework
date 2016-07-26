@@ -1,5 +1,5 @@
 require 'mathn'
-require '/home/ubuntu/workspace/truth-table'
+require 'truth-table'
 
 $w0 = 3
 $w_vect = [2, 2, 2, 2]
