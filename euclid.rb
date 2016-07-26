@@ -11,5 +11,3 @@ def alg_euclid_ext(x,mod,result=1)
 end
 
 #alg_euclid_ext(125,322)
-#alg_euclid_ext(125,232)
-#alg_euclid_ext(128,251)
