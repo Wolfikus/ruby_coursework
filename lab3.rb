@@ -72,5 +72,3 @@ def recogniser(matrix)
 end
 
 recogniser(x1)
-#recogniser(x3)
-#recogniser(x7)
